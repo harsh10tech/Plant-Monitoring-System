@@ -9,5 +9,7 @@ intrusion in to the field, crop growth, agriculture.
 
 This is an attempt on creating a LAN(offline) system to monitor your plant envitonment condition using NodeMCU.
 
+
 https://user-images.githubusercontent.com/67235605/161735280-6b46eac6-56e9-473c-9874-801417f18a5f.mp4
+![Plant monitoring SS](https://user-images.githubusercontent.com/67235605/161735683-0b8b522e-5db3-4f1f-8c19-9f9dd65d13f2.jpg)
 
