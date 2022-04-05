@@ -1,12 +1,11 @@
 #include "WiFi.h"
 #include "ESPAsyncWebServer.h"
-//#include <Adafruit_Sensor.h>
 #include <SimpleDHT.h>
 
 // Replace with your network credentials
 
-const char* ssid = "#Coded";
-const char* password = "Harsh@12345";
+const char* ssid = "WIFI_NAME";
+const char* password = "password";
 
 
 
